@@ -1,4 +1,5 @@
-DeepLearning-Files
+<b>DeepLearning-Files<b>
+<br>
 Welcome to DeepLearning-Files! This repository contains a collection of mini projects, practice exercises, and explorations in deep learning.
 
 Repository Overview
